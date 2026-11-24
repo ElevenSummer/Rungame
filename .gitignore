@@ -1,0 +1,44 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Aa]rtifacts/
+
+# Visual Studio / Rider / VS Code generated
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity crash / debug
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
+
+# Keep these tracked:
+# Assets/
+# ProjectSettings/
+# Packages/manifest.json
+# Packages/packages-lock.json
